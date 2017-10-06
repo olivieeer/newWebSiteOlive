@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://oliviercallens.fr/sitemap.xml

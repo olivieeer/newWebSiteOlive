@@ -1,0 +1,119 @@
+header, section, nav, footer , H2, H1, P, div, a
+{
+     font-family : Tahoma, Arial, Helvetica, sans-serif;
+}
+#bloc_page
+{
+    width: 900px;
+    margin: auto;
+	font-size : 16px;
+}
+header
+{
+	text-align : center;
+	width : 70%;
+	color : #696969;
+	margin : 2% 35% 2% 30%;
+	padding : 1% 0% 1% 0%;
+	border : 2px solid gray;
+	border-radius: 10px 10px 10px 10px;
+}
+fieldset
+{
+	margin : 0% 1% 1% 1%;
+	padding : 0% 2% 1% 2%;
+	border : 1px solid gray;
+	border-radius: 10px 10px 10px 10px;
+}
+H1, H4
+{
+	text-align : center;
+	margin : 1% 0% 0% 0%;
+}
+H5
+{
+    margin : 1% 0% 0% 0%;
+}
+P
+{
+    font-size: 14px;
+	text-align : justify;
+}
+.nomEntreprise
+{
+	font-size : 13px;	
+	font-weight : bold;
+}	
+#titrePrincipal span 
+{
+	font-style : normal;
+	color : gray;
+}
+P.titreMission
+{
+	margin-botton : -3%;
+}
+.competence
+{
+	font-size : 16px;
+	position : absolute;  
+	left : 40%;
+}
+.formation
+{
+	font-size : 16px;
+	margin : 0% 0% 0% 1%;
+	width : 35%;
+}
+#lui
+{
+	height: 130px;
+	width : 110px;
+    border-radius: 6px 6px 6px 6px;
+}
+#moi
+{
+	font-size : 14px;
+	margin : 0% 1% 1% 1%;
+	padding : 0% 2% 1% 2%;
+	border : 1px solid gray;
+	border-radius: 10px 10px 10px 10px;
+	height: auto;
+	width : 93%;
+}
+#moi P
+{
+	font-size : 14px;
+}
+#monExperience
+{
+	height: auto;
+	width : 99%;
+}
+
+#maFormation
+{
+	height: auto;
+	width : 99%;
+}
+#maFormation ul
+{
+	list-style-type: square;
+}
+#mesCompetences
+{
+	height: auto;
+	width : 99%;
+}
+#cadrePhoto
+{
+	position : relative;
+	left : 2%;
+	display: inline-block;
+}
+#titrePrincipal
+{
+	width : 70%;
+	display: inline-block;
+	vertical-align : top;
+}
